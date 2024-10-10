@@ -44,7 +44,8 @@ criaCartao(
     'Futebol',
     'O maior artilheiro do futebol?',
     'Cristiano Ronaldo'
-)criaCartao(
+)
+    criaCartao(
     'Programação',
     'O que é codigo?',
     'O que faz o sistema funcionar'
